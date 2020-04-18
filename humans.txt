@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Docker
+    HTML5, CSS3, Docker, Kubernetes
     jQuery, Modernizr
