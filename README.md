@@ -13,3 +13,7 @@ Adding git compare capability
 ##Git Additional Comparison
 
 Adding additional compare capability
+
+##Branches
+
+Master and dev-main
