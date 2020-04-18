@@ -7,9 +7,9 @@
 
 # THANKS
 
-    Thanks to the team
+    Thanks to the team: VZ,DS,AD,CZ,SD
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Docker, Kubernetes
-    jQuery, Modernizr,Python,GO
+    jQuery, Modernizr,Python,GO, JavaEE
