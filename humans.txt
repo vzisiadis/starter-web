@@ -13,4 +13,4 @@
 
     HTML5, CSS3, Docker, Kubernetes
     jQuery, Modernizr,Python,GO, JavaEE
-	Hadoop with MapReduce
+	Hadoop with MapReduce,Pig and Hive
