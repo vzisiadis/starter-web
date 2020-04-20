@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 ##Git Comparison
 
 Adding git compare capability
-Adding git rebase
+Adding git rebase (also through gitHub)
 
 ##Git Additional Comparison
 
