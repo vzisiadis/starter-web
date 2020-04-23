@@ -1,1 +1,2 @@
 adding new file in Git project
+adding stash on new branch
